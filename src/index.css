@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  width: 350px;
+  text-align: center;
+}
+
+.qr-input {
+  margin-bottom: 20px;
+}
+
+.qr-input input {
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+.download-btn {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
